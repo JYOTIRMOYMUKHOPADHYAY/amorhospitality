@@ -1,33 +1,3 @@
-/*--------------------------------------------------------------------------------
-
-	# Minsoon Template 1.0 - Mar 16, 2018
-	# ------------------------------------------------------------------------
-	# Designed & coded by MegaDrupal
-	# Websites:  http://www.megadrupal.com -  Email: info@megadrupal.com
-
-----------------------------------------------------------------------------------
-
-	1. base
-	2. form-item
-	3. general_header
-	4. general_service
-	5. general_hero
-	6. fss
-	7. particles.js
-	8. core_quietflow
-	9. Ribbon background
-	10. core_smoky
-	11. core_vegas
-	12. youtube
-	13. socialicon
-	14. Reset Row Boostrap
-	15. Margin Padding
-	16. CountDown
-
---------------------------------------------------------------------------------*/
-
-/* 1. base
---------------------------------------------------------------------------------*/
 
 a[disabled], input[disabled], button[disabled], textarea[disabled] {
     cursor: not-allowed !important;
@@ -629,7 +599,7 @@ mark, .mark {
     left: 0;
     width: 100%;
     height: 100%;
-    /* background-color: #000; */
+    background-color: #ccc9aa;
     opacity: .5;
     z-index: -1;
 }
