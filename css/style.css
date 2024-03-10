@@ -1271,6 +1271,15 @@ textarea.form-control {
       /* height: 100px; */
     }
   
+    .image_box_client{
+      align-items: center;
+        justify-content: space-evenly;
+        display: flex;
+        flex-direction: row;
+    }
+    .image_box_client img{
+      width: 30%
+    }
     @media only screen and (max-width: 700px) {
       .check_data{
         align-items: center;
@@ -1282,6 +1291,17 @@ textarea.form-control {
       .check_data img{
         width: 80%;
         /* height: 100px; */
+      }
+
+
+      .image_box_client{
+        align-items: center;
+          justify-content: space-evenly;
+          display: flex;
+          flex-direction: column;
+      }
+      .image_box_client img{
+        width: 80%
       }
          
     }
